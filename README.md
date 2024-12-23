@@ -1,6 +1,7 @@
 [![Header](./assets/header.png)](https://www.youtube.com/@fullstackprofessor)
 
-<h1 align="center">Hi 👋, I'm Fullstack Professor</h1>
+
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="waving hand">, I'm Fullstack Professor</h1>
 <h3 align="center">A passionate Fullstack Developer</h3>
 
 ```javascript
@@ -64,6 +65,8 @@ class Technologies extends FullstackWebDeveloper {
 
 [![](https://visitcount.itsvg.in/api?id=fullstackprofessor&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<a href="https://www.github.com/fullstackprofessor" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/fullstackprofessor?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fullstackprofessor&theme=neon)](https://github.com/fullstackprofessor/github-readme-stats)
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fullstackprofessor&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
@@ -91,10 +94,22 @@ class Technologies extends FullstackWebDeveloper {
 
 # 🌐 Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/fullstack.professor/)
+1. https://x.com/fullstackproff
+2. https://www.instagram.com/fullstack.professor/
+3. https://www.tiktok.com/@fullstackprofessor
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/fullstack.professor/)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fullstackprofessor/)
+
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@fullstackprofessor)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/fullstackproffesor)
+
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/fullstackproff)
+h
+<a href="https://x.com/fullstackproff" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/fullstackproff?logo=x&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+p
+<a href="https://www.instagram.com/fullstack.professor/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/fullstack.professor?logo=instagram&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+h
 
 <p align="left">
 	<!-- <a href="https://www.linkedin.com/in/fullstackprofessor/" target="_blank" rel="noreferrer">
