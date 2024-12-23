@@ -94,9 +94,9 @@ class Technologies extends FullstackWebDeveloper {
 
 # 🌐 Socials
 
-1. https://x.com/fullstackproff
+<!-- 1. https://x.com/fullstackproff
 2. https://www.instagram.com/fullstack.professor/
-3. https://www.tiktok.com/@fullstackprofessor
+3. https://www.tiktok.com/@fullstackprofessor -->
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/fullstack.professor/)
 
@@ -105,11 +105,7 @@ class Technologies extends FullstackWebDeveloper {
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@fullstackprofessor)
 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/fullstackproff)
-h
-<a href="https://x.com/fullstackproff" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/fullstackproff?logo=x&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-p
-<a href="https://www.instagram.com/fullstack.professor/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/fullstack.professor?logo=instagram&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-h
+
 
 <p align="left">
 	<!-- <a href="https://www.linkedin.com/in/fullstackprofessor/" target="_blank" rel="noreferrer">
