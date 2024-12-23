@@ -110,7 +110,7 @@ class Technologies extends FullstackWebDeveloper {
 
 <a href="https://www.instagram.com/fullstack.professor/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/fullstack.professor?logo=instagram&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-<p align="left">
+<p align="left" styles="background-color: #fff">
 	<!-- <a href="https://www.linkedin.com/in/fullstackprofessor/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> -->
 	<!-- <a href="https://www.stackoverflow.com/users/5555555/fullstacknator" target="_blank" rel="noreferrer">
