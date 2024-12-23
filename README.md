@@ -106,6 +106,9 @@ class Technologies extends FullstackWebDeveloper {
 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/fullstackproff)
 
+<a href="https://x.com/fullstackproff" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/fullstackproff?logo=x&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+<a href="https://www.instagram.com/fullstack.professor/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/fullstack.professor?logo=instagram&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 <p align="left">
 	<!-- <a href="https://www.linkedin.com/in/fullstackprofessor/" target="_blank" rel="noreferrer">
