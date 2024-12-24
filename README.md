@@ -10,7 +10,6 @@ class FullStack extends FullstackWebDeveloper {
   name = "Fullstack Professor";
   title = "Fullstack Web Developer";
   company = "Fullstack Professor | Remote";
-  location = "Sweden, SV";
 }
 
 class Technologies extends FullstackWebDeveloper {
@@ -63,7 +62,10 @@ class Technologies extends FullstackWebDeveloper {
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=fullstackprofessor&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=fullstackprofessor&icon=6&color=0)](https://visitcount.itsvg.in)
+
+<!-- [![](https://visitcount.itsvg.in/api?id=fullstackprofessor&icon=0&color=0)](https://visitcount.itsvg.in) -->
+
 
 <a href="https://www.github.com/fullstackprofessor" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/fullstackprofessor?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
@@ -80,6 +82,13 @@ class Technologies extends FullstackWebDeveloper {
 <!-- [![Matrix SVG](https://raw.githubusercontent.com/fullstacknator/fullstacknator/master/matrix.svg)](https://www.youtube.com/@fullstackprofessor) -->
 
 </div>
+
+# Detailed Stats
+<!-- https://github.com/anmol098/waka-readme-stats?tab=readme-ov-file#update-your-readme -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 
 # 💻 Tech Stack
 
@@ -131,5 +140,37 @@ class Technologies extends FullstackWebDeveloper {
 <a href="https://www.buymeacoffee.com/fullstackprofessor"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 # Developer habits
+<div>
+	<img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="eat sleep code repeat" width="200" style="width: 200px"/>
+</div>
 
-<img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="eat sleep code repeat" width="200" style="float: left; width: 200px" align="right" />
+# Activity Graph | daily activity
+
+<!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fullstackprofessor&theme=react-dark)
+
+<!-- # Trophies -->
+<!-- https://github.com/ryo-ma/github-profile-trophy -->
+<!-- ![Trophies](https://github-profile-trophy.vercel.app/?username=fullstackprofessor&theme=monokai) -->
+
+
+<!-- # GitHub Readme Streak Stats -->
+<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+<!-- ![Contributions](https://streak-stats.demolab.com/?user=fullstackprofessor&theme=radical) -->
+
+# Highlighted Projects/Repos
+Carousel of highlighted repos
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fullstackprofessor&repo=fullstackprofessor&theme=radical)](https://github.com/fullstackprofessor/fullstackprofessor)
+
+# Badgets of progress
+<!-- https://shields.io/ -->
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+
+# Pinned repo
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=fullstackprofessor&repo=fullstackprofessor&theme=radical)](https://github.com/fullstackprofessor/repo_name)
+
