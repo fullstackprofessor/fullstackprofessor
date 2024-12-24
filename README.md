@@ -19,6 +19,11 @@ class Technologies extends FullstackWebDeveloper {
 }
 ```
 
+# Free 1h meeting Here
+<div align="center">
+<img src="./assets/meeting-button.png">
+</div>
+
 # Technologies in icons
 
 <div align="center"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -116,6 +121,7 @@ class Technologies extends FullstackWebDeveloper {
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/fullstackproff)
 
 <a href="https://x.com/fullstackproff" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/fullstackproff?logo=x&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 
 <a href="https://www.instagram.com/fullstack.professor/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/fullstack.professor?logo=instagram&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
