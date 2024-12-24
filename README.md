@@ -19,9 +19,11 @@ class Technologies extends FullstackWebDeveloper {
 }
 ```
 
-# Free 1h meeting Here
+# Free 1h meeting
 <div align="center">
+<a href="https://calendly.com/fullstackprofessor/60min">
 <img src="./assets/meeting-button.png">
+</a>
 </div>
 
 # Technologies in icons
