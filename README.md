@@ -71,6 +71,9 @@ class Technologies extends FullstackWebDeveloper {
 
 [![](https://visitcount.itsvg.in/api?id=fullstackprofessor&icon=6&color=0)](https://visitcount.itsvg.in)
 
+<!-- ![GitHub followers](https://img.shields.io/github/followers/fullstackprofessor?label=Follow&style=social&color=0) -->
+
+
 <!-- [![](https://visitcount.itsvg.in/api?id=fullstackprofessor&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 
